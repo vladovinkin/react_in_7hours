@@ -1,4 +1,3 @@
-import CostItem from '../CostItem/CostItem'
 import { CostsProps, CostItemType } from '../CostItem/CostItemProps'
 import Card from '../Card/Card'
 import CostsFilter from '../CostsFilter/CostsFilter'
